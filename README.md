@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karan-The-Devil
 - 👀 I’m interested in ...PHTHON
 - 🌱 I’m currently learning ...PYTHON
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on PYTHON
 - 📫 How to reach me ...email: karan191990@gmail.com
 
 <!---
