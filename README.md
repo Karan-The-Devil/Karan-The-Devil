@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karan-The-Devil
 - 👀 I’m interested in ...PHTHON
-- 🌱 I’m currently learning ...Back end developing
+- 🌱 I’m currently learning ...Backend developing
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me ...email: karan191990@gmail.com
 
